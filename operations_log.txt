@@ -1,0 +1,4 @@
+LOG: System initialized
+LOG: Warehouse shift A started
+LOG: Inventory check complete
+LOG: Shift A closed and handed over to Shift B
