@@ -58,4 +58,4 @@ jobs:
 
     - name: Run verification script 
 
-      run: python title.py 
+      run: python hello.py 
